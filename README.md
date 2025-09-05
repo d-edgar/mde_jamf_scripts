@@ -69,33 +69,6 @@ Each script is formatted for Jamf Extension Attributes, returning values inside 
        → EA `MDE: RTP Enabled` equals `false`  
      - Macs **not onboarded**  
        → EA `MDE: EDR Onboarded` equals `false` or `Unknown`  
-
----
-
-## 📂 Repository Structure
-mde_jamf_scripts/
-│
-
-├── network_protection_status.sh
-
-├── real_time_protection_enabled.sh
-
-├── real_time_protection_available.sh
-
-├── real_time_protection_subsystem.sh
-
-├── tamper_protection.sh
-
-├── healthy.sh
-
-├── app_version.sh
-
-├── engine_version.sh
-
-├── edr_onboarded.sh
-
-└── README.md
-
 ---
 
 ## 🔍 Requirements
